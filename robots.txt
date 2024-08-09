@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anagrege.github.io/sitemap.html.gz
+Sitemap: https://anagrege.github.io/app/sitemap.html.gz
+Sitemap: https://anagrege.github.io/assets/sitemap.html.gz
+Sitemap: https://anagrege.github.io/css/sitemap.html.gz
+Sitemap: https://anagrege.github.io/includes/sitemap.html.gz
+Sitemap: https://anagrege.github.io/item/sitemap.html.gz
+Sitemap: https://anagrege.github.io/src/sitemap.html.gz
